@@ -1,0 +1,16 @@
+2025-11-02 20:31:25,951 [INFO] Loaded dataset: (8999, 7)
+2025-11-02 20:31:25,951 [INFO] Starting feature engineering on JUP dataset
+2025-11-02 20:31:25,952 [INFO] Added volatility and return features
+2025-11-02 20:31:25,955 [INFO] Added SMA, RSI, and close vs SMA features
+2025-11-02 20:31:25,955 [INFO] Added lag and range features
+2025-11-02 20:31:25,956 [INFO] Added time-based features
+2025-11-02 20:31:25,958 [INFO] Feature engineering complete: original=(8999, 20), final=(8950, 20)
+2025-11-02 20:31:26,035 [INFO] Saved engineered dataset to: C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\multi_class_JUP_engineered_features\multi_class_JUP_engineered_features.csv
+2025-11-02 20:36:13 [INFO] Starting Feature Engineering...
+2025-11-02 20:36:13 [INFO] Generating FE_Return and FE_Volatility features...
+2025-11-02 20:36:13 [INFO] Generating FE_Trend and FE_Momentum features...
+2025-11-02 20:36:13 [INFO] Generating FE_Lag features...
+2025-11-02 20:36:13 [INFO] Generating FE_Time-Based features...
+2025-11-02 20:36:13 [INFO] Feature Engineering completed successfully.
+2025-11-02 20:36:13 [INFO] Saved to: C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\multi_class_JUP_engineered_features\multi_class_JUP_engineered_features.csv
+2025-11-02 20:36:13 [INFO] Final shape: (8950, 20)

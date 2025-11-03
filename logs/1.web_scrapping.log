@@ -1,0 +1,26 @@
+2025-11-02 15:35:51,434 - INFO - --- Starting Data Fetch ---
+2025-11-02 15:35:51,434 - INFO - Fetching data for JUP (JUPUSDT)...
+2025-11-02 15:35:51,434 - INFO - Fetching 365 days of 1h data for JUPUSDT
+2025-11-02 15:35:55,388 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\JUP_historical_data_hourly.csv
+2025-11-02 15:35:55,388 - INFO - Fetching data for SEI (SEIUSDT)...
+2025-11-02 15:35:55,388 - INFO - Fetching 365 days of 1h data for SEIUSDT
+2025-11-02 15:35:59,088 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\SEI_historical_data_hourly.csv
+2025-11-02 15:35:59,096 - INFO - Fetching data for ARB (ARBUSDT)...
+2025-11-02 15:35:59,097 - INFO - Fetching 365 days of 1h data for ARBUSDT
+2025-11-02 15:36:02,728 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\ARB_historical_data_hourly.csv
+2025-11-02 15:36:02,728 - INFO - Fetching data for TIA (TIAUSDT)...
+2025-11-02 15:36:02,728 - INFO - Fetching 365 days of 1h data for TIAUSDT
+2025-11-02 15:36:06,581 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\TIA_historical_data_hourly.csv
+2025-11-02 15:36:06,581 - INFO - Fetching data for APE (APEUSDT)...
+2025-11-02 15:36:06,581 - INFO - Fetching 365 days of 1h data for APEUSDT
+2025-11-02 15:36:10,277 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\APE_historical_data_hourly.csv
+2025-11-02 15:36:10,277 - INFO - Fetching data for GALA (GALAUSDT)...
+2025-11-02 15:36:10,277 - INFO - Fetching 365 days of 1h data for GALAUSDT
+2025-11-02 15:36:13,969 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\GALA_historical_data_hourly.csv
+2025-11-02 15:36:13,969 - INFO - Fetching data for FIL (FILUSDT)...
+2025-11-02 15:36:13,970 - INFO - Fetching 365 days of 1h data for FILUSDT
+2025-11-02 15:36:17,782 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\FIL_historical_data_hourly.csv
+2025-11-02 15:36:17,782 - INFO - Fetching data for OP (OPUSDT)...
+2025-11-02 15:36:17,782 - INFO - Fetching 365 days of 1h data for OPUSDT
+2025-11-02 15:36:21,570 - INFO - Saved 9000 rows to C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\raw\OP_historical_data_hourly.csv
+2025-11-02 15:36:21,570 - INFO - --- Data Acquisition Complete ---

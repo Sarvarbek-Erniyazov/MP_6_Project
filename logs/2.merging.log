@@ -1,0 +1,10 @@
+2025-11-02 18:26:07,936 - INFO - APE data loaded: 9000 rows
+2025-11-02 18:26:07,945 - INFO - ARB data loaded: 9000 rows
+2025-11-02 18:26:07,955 - INFO - FIL data loaded: 9000 rows
+2025-11-02 18:26:07,965 - INFO - GALA data loaded: 9000 rows
+2025-11-02 18:26:07,975 - INFO - JUP data loaded: 9000 rows
+2025-11-02 18:26:07,986 - INFO - OP data loaded: 9000 rows
+2025-11-02 18:26:07,996 - INFO - SEI data loaded: 9000 rows
+2025-11-02 18:26:08,007 - INFO - TIA data loaded: 9000 rows
+2025-11-02 18:26:08,011 - INFO - Merged all coins: 9000 rows, 40 columns
+2025-11-02 18:26:08,142 - INFO - Merged features saved to: C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\merged\merged_features.csv

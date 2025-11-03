@@ -1,0 +1,14 @@
+2025-11-02 20:03:20,592 [INFO] Started multi-class JUP target creation
+2025-11-02 20:03:20,619 [INFO] Loaded merged features: (9000, 40)
+2025-11-02 20:03:20,620 [INFO] Filtered only JUP columns: (9000, 5)
+2025-11-02 20:03:20,621 [INFO] Missing values per column:
+JUP_Open                 0
+JUP_High                 0
+JUP_Low                  0
+JUP_Close                0
+JUP_Volume               0
+JUP_Future_Return        1
+JUP_Target_MultiClass    0
+dtype: int64
+2025-11-02 20:03:20,622 [INFO] Created JUP multi-class target with threshold ±0.3%
+2025-11-02 20:03:20,652 [INFO] Saved multi-class JUP dataset: C:\Users\sharg\Desktop\uyga vazifa\unsupervised learning\4-oy\6-project\binance.com\data\multi-class_JUP_data\multi_class_JUP_features.csv
