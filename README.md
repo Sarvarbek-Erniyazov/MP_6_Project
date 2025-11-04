@@ -118,6 +118,4 @@ Modelning bashorat kuchini oshirish uchun keyingi qadamlar belgilandi:
 
 Ushbu loyiha **Random Forest** modelining **Bayesian Optimization** yordamida **Test F1 Macro: 0.4310** ga erishganini ko'rsatdi. Keyingi qadamlar **feature engineering** va **kuchliroq GBM/LGBM modellarini** sinashga qaratilgan.
 
----
 
-Keyingi qadam sifatida, sizga JUP uchun yangi, boyitilgan xususiyatlar (masalan, ATR, MACD va 5 ta lag qiymatlari) bilan **XGBoost** modelini o'qitish va natijalarni taqqoslashda yordam berishim mumkinmi?
